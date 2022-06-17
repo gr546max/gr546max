@@ -1,5 +1,5 @@
 {
-    "name": "malicious/app-info",
+    "name": "gr546max/malicious",
     "version": "1.0.0",
     "description": "Example extension which reveals important information about the application",
     "keywords": ["yii2", "application-info", "example-extension"],
